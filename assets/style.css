@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+header img{
+    width: 10em;
+}
+
+hr{
+    opacity: 10%;
+}
+
+body > p{
+    text-align: center;
+    color: #107777;
+    background: linear-gradient(rgba(253,251,241,255),rgba(253,251,241,255)); height:35px; border-top: 2px solid rgba(255,219,131,255);
+    margin-bottom: 3em;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+main{
+    width: 650px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+#immagine_focaccia{
+    border-radius: 10px;
+    margin-bottom: 0.8em;
+}
+
+figure{
+    text-align: center;
+    width: 650px;
+    margin-bottom: 3em;
+}
+
+figcaption{
+    opacity: 50%;
+}
+
+main > p{
+    margin-bottom: 1em;
+}
+
+#featured_p p{
+    margin-bottom: 3em;
+    color: #b94f1d;
+    font-weight: bold;
+}
+
+h2{
+    margin-bottom: 0.6em;
+}
+
+#featured_p{
+    padding-left: 15px;
+    border-left: 1px solid #ffc400;
+}
+
+main hr{
+    margin-bottom: 1.4em;
+    opacity: 20%;
+    border-color: aqua;
+}
+
+h4{
+    margin-bottom: 1em;
+}
+
+ul{
+    padding-left: 40px;
+    margin-top: 16px;
+    margin-bottom: 2em;
+}
+
+ul li{
+    padding-bottom: 15px;
+}
+
+ol{
+    padding-left: 2.3em;
+    font-weight: bold;
+}
+
+ol p{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: normal;
+}
+
+ol li{
+    font-size: 11px;
+}
+
+ol li span{
+    font-size: 16px;
+}
+
+a{
+    color: #107777;
+    font-weight: normal;
+}
